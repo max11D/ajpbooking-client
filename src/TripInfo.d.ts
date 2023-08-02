@@ -11,7 +11,7 @@ export type TripInfo = {
     passengerCount: number;
     luggageCount: number;
     date: Date;
-    hours: number;
+    hours: number | undefined;
     tripType: TripType;
     accessible: boolean;
     diffDropoff: boolean;
