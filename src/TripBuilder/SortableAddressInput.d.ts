@@ -1,6 +1,7 @@
+/// <reference types="google.maps" />
 export type SortableAddressInputProps = {
     value: string;
-    onChange: (newValue: string) => void;
+    onChange: (newValue: google.maps.places.AutocompletePrediction) => void;
     id: string;
     deleteStop: () => void;
 };
