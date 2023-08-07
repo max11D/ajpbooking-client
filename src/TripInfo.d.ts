@@ -1,5 +1,5 @@
 /// <reference types="google.maps" />
-import { TripType } from "./TripBuilder";
+import { TripType } from './TripBuilder';
 export type TripInfo = {
     origin: google.maps.places.AutocompletePrediction;
     destination: google.maps.places.AutocompletePrediction;

@@ -1,2 +1,1 @@
-declare const _default: () => import("react/jsx-runtime").JSX.Element;
-export default _default;
+export default function App(): import("react/jsx-runtime").JSX.Element;
