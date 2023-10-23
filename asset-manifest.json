@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.baca9c67.css",
-    "main.js": "/static/js/main.180e9d5f.js",
-    "static/js/529.2c2225d9.chunk.js": "/static/js/529.2c2225d9.chunk.js",
-    "static/media/person.png": "/static/media/person.3fa647960fc9a8f207b9.png",
-    "index.html": "/index.html",
-    "main.baca9c67.css.map": "/static/css/main.baca9c67.css.map",
-    "main.180e9d5f.js.map": "/static/js/main.180e9d5f.js.map",
-    "529.2c2225d9.chunk.js.map": "/static/js/529.2c2225d9.chunk.js.map"
+    "main.css": "/ajpbooking-client/static/css/main.baca9c67.css",
+    "main.js": "/ajpbooking-client/static/js/main.b7874759.js",
+    "static/js/529.2c2225d9.chunk.js": "/ajpbooking-client/static/js/529.2c2225d9.chunk.js",
+    "static/media/person.png": "/ajpbooking-client/static/media/person.3fa647960fc9a8f207b9.png",
+    "index.html": "/ajpbooking-client/index.html",
+    "main.baca9c67.css.map": "/ajpbooking-client/static/css/main.baca9c67.css.map",
+    "main.b7874759.js.map": "/ajpbooking-client/static/js/main.b7874759.js.map",
+    "529.2c2225d9.chunk.js.map": "/ajpbooking-client/static/js/529.2c2225d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.baca9c67.css",
-    "static/js/main.180e9d5f.js"
+    "static/js/main.b7874759.js"
   ]
 }
